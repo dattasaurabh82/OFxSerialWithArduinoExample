@@ -1,0 +1,1 @@
+You’d need a screen to test the incoming data I’m using :: http://www.dfrobot.com/wiki/index.php/OLED_2864_Display_module_(SKU:TOY0007)
